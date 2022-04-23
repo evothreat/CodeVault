@@ -1,0 +1,95 @@
+Сеты;;;
+id;name;price;ref
+63;Летний;999;https://sun1-10.userapi.com/c830401/v830401614/e4a63/fvMSjmaCDc8.jpg
+64;На двоих;1090;https://pp.userapi.com/c834203/v834203395/8a62e/JoTimwk8EO4.jpg
+65;Вегетарианский ;790;https://pp.userapi.com/c834203/v834203395/8a625/j-RSz9PgE5w.jpg
+66;Мини;1160;https://pp.userapi.com/c834203/v834203395/8a61c/TfYvpCiVsec.jpg
+67;Спайси ;1080;https://pp.userapi.com/c834203/v834203395/8a613/fTYmNa_aT0w.jpg
+68;Ассорти;1590;https://pp.userapi.com/c834203/v834203395/8a60a/DMkw7tkuOqc.jpg
+69;Темпура;1240;https://pp.userapi.com/c834203/v834203395/8a601/sMw-4OlCpjY.jpg
+70;Праздничный;4976;https://pp.userapi.com/c834203/v834203395/8a5f8/6L50zmqhQzs.jpg
+71;Хит;1990;https://pp.userapi.com/c834203/v834203395/8a5f1/h4g0YzKuLPc.jpg
+72;Лайт;1600;https://pp.userapi.com/c834203/v834203395/8a5e8/45ox76EgqAE.jpg
+73;Маки;410;https://pp.userapi.com/c847019/v847019087/28df7/EJspAV3rbHg.jpg
+74;Филадельфия;1890;https://pp.userapi.com/c840137/v840137471/7fe61/e48fU_E0QrI.jpg
+75;Каприз ;860;https://pp.userapi.com/c840137/v840137471/7fe58/M9Fe1wO-19k.jpg
+76;Мачо;920;https://pp.userapi.com/c840423/v840423667/5ceb7/uid-WaUACDE.jpg
+77;Лакки;910;https://sun1-17.userapi.com/c831209/v831209719/7285b/Dl014LkPnxk.jpg
+78;Микадо;940;https://pp.userapi.com/c840234/v840234536/71831/sg0AESu586k.jpg
+79;Фьюжн;1170;https://pp.userapi.com/c824603/v824603492/97565/LfGp4n8QFI0.jpg
+80;Делюкс;1200;https://pp.userapi.com/c831309/v831309492/50ac4/AXm2k_VL4M0.jpg
+81;Тет-а-тет;800;https://pp.userapi.com/c840131/v840131132/65931/Bw7FazhKBV4.jpg
+82;Лагуна;1740;https://pp.userapi.com/c834104/v834104900/8d246/vGxifnA5H7U.jpg
+83;Либерти;830;https://pp.userapi.com/c840323/v840323520/454d0/D0IaqwphYLI.jpg
+84;Окинава;790;https://pp.userapi.com/c841327/v841327520/5b614/IGT4m8zCN2I.jpg
+85;Гурман;1310;https://pp.userapi.com/c824411/v824411068/7979d/2zjoke3T5pQ.jpg
+86;Банзай;845;https://pp.userapi.com/c824411/v824411068/7978b/0r7t2PFmgDU.jpg
+87;Мулен Руж;990;https://pp.userapi.com/c840323/v840323524/3f454/vZXLzYDdrXM.jpg
+88;Манхеттен;1090;https://pp.userapi.com/c840323/v840323524/3f44b/Cjwygko6kG0.jpg
+89;Мажор;3030;https://pp.userapi.com/c840323/v840323524/3f439/mNAAZA2rJso.jpg
+90;Акита;980;https://pp.userapi.com/c840535/v840535524/3de91/8ZbVCwd0xpg.jpg
+;;;
+;;;
+Пицца;;;
+id;name;price;ref
+91;Охотничья;390;https://pp.userapi.com/c847020/v847020440/73c21/JCrWGrUfUWw.jpg
+92;Салями;350;https://pp.userapi.com/c834400/v834400440/1613b3/79jHIO8WbJY.jpg
+93;Пеперони;350;https://pp.userapi.com/c846524/v846524873/40d9b/3d-cgjjr3e4.jpg
+94;4 сыра;390;https://sun1-17.userapi.com/c830709/v830709203/d8f32/ne9fSD9B9n8.jpg
+95;С семгой;440;https://pp.userapi.com/c836438/v836438700/33ba4/PrZhw5enqtg.jpg
+96;С беконом и ветчиной;390;https://pp.userapi.com/c836438/v836438700/33b9b/8I29zVA5GvE.jpg
+97;Черри с беконом;390;https://pp.userapi.com/c836220/v836220700/27002/wjoHh2Wr7_E.jpg
+98;Рамирез;500;https://pp.userapi.com/c836220/v836220700/26fdf/-5eVkAczxbc.jpg
+99;С курицей и грибами;380;https://pp.userapi.com/c836220/v836220700/26f4a/JQidyKViE0Q.jpg
+100;Маргарита;290;https://pp.userapi.com/c836220/v836220700/26f38/QaDEZUGwenc.jpg
+101;Гавайская;370;https://pp.userapi.com/c836220/v836220700/26f26/bhKUhKvGNcM.jpg
+;;;
+Wok;;;
+id;name;price;ref
+102;Рис с овощами;180;https://pp.userapi.com/c847216/v847216355/4e0a3/uk9wt7WHfNg.jpg
+103;Рис с овощами и лососем;280;https://pp.userapi.com/c847216/v847216355/4e09a/NqacaZVLgeY.jpg
+104;Рис с овощами и филе нежного ягненка;210;https://pp.userapi.com/c847216/v847216355/4e088/avr-m977k7I.jpg
+105;Рис с овощами и креветками;280;https://pp.userapi.com/c847216/v847216355/4e07f/TXzTdwnYtxo.jpg
+106;Яичная лапша с овощами;180;https://pp.userapi.com/c846123/v846123912/3dfde/BUXRm61fie4.jpg
+107;Яичная лапша с овощами и курицей;210;https://pp.userapi.com/c846123/v846123912/3dfd5/MYAE-v8TGFI.jpg
+108;Яичная лапша с овощами и лососем;280;https://pp.userapi.com/c846123/v846123912/3dfcc/XCeCZAoyLEM.jpg
+109;Яичная лапша с овощами и креветками;280;https://pp.userapi.com/c846123/v846123912/3dfc3/_EhTS-enXUQ.jpg
+110;Удон с овощами;180;https://pp.userapi.com/c846123/v846123912/3dfba/pwT4HWoQfk0.jpg
+111;Удон с овощами и курицей;210;https://pp.userapi.com/c846123/v846123912/3dfb1/DhHbEqE4HPs.jpg
+112;Удон с овощами и лососесм;280;https://pp.userapi.com/c846123/v846123912/3dfa8/uMin44q3SYk.jpg
+113;Удон с овощами и креветками;280;https://pp.userapi.com/c846123/v846123912/3df9f/CpQsqYwIpfk.jpg
+114;Соба с овощами;180;https://pp.userapi.com/c846123/v846123912/3df92/Ou7oL9DEGqY.jpg
+115; Соба с овощами и курицей;210;https://pp.userapi.com/c846123/v846123912/3df89/ViZr2pv71No.jpg
+116;Соба с овощами и лососем;280;https://pp.userapi.com/c846123/v846123912/3df80/S-K1uMTuUg8.jpg
+117;Соба с овощами и креветками;280;https://pp.userapi.com/c846123/v846123912/3df6e/Wya_x_v1s8A.jpg
+;;;
+Комбо;;;
+id;name;price;ref
+118;Комбо набор №1;990;https://sun1-13.userapi.com/c830608/v830608680/ffa76/E_glJVAVlSU.jpg
+119;Комбо набор №2;680;https://sun1-13.userapi.com/c830608/v830608680/ffa80/Slxb7dW4ZC0.jpg
+120;Комбо набор №3;800;https://sun1-9.userapi.com/c830608/v830608680/ffa8a/Dd5ccUhbXSs.jpg
+121;Комбо набор №4;800;https://sun1-7.userapi.com/c830608/v830608680/ffa94/bvvlOhthoGg.jpg
+;;;
+Дополнительно;;;
+id;name;price;ref
+122;Соус Спайси;30;https://pp.userapi.com/c841637/v841637708/742f1/kjn4xxskw6w.jpg
+123;Соус Васаби;15;https://pp.userapi.com/c841234/v841234991/67b9e/DMQ996GQqPc.jpg
+124;Соевый соус ;15;https://pp.userapi.com/c841136/v841136991/6e8e6/oagvkchn0ZY.jpg
+125;Соус Унаги;30;https://pp.userapi.com/c840728/v840728536/4e21a/rVWKCrfx5C0.jpg
+126;Салат Чука;130;https://pp.userapi.com/c840728/v840728536/4e212/nozax1o8iEQ.jpg
+127;Имбирь;15;https://pp.userapi.com/c841136/v841136991/6e8df/LD5r_ABUDtM.jpg
+;;;
+Суши;;;
+id;name;price;ref
+1;Суши с креветкой;80;https://pp.userapi.com/c824411/v824411412/834c0/5GIo8YoZy1w.jpg
+2;Суши с лососем;65;https://pp.userapi.com/c824411/v824411412/834c9/pGHMC2ApICo.jpg
+3;Суши с окунем;70;https://pp.userapi.com/c824411/v824411412/834d2/AUIuNrDPv1g.jpg
+4;Суши с угрем ;80;https://pp.userapi.com/c824411/v824411412/834db/5EOWcjO3qOk.jpg
+5;Суши спайси с беконом ;60;https://pp.userapi.com/c840632/v840632321/44b1b/bAUsAAVCmzY.jpg
+6;Суши спайси с креветками;70;https://pp.userapi.com/c840632/v840632321/44b24/un-0NmrFy4A.jpg
+7;Суши спайси с курицей ;60;https://pp.userapi.com/c840632/v840632321/44b2d/4XknSM-jVfk.jpg
+8;Суши спайси с лососем;70;https://pp.userapi.com/c840632/v840632321/44b36/Iccs4aismn4.jpg
+9;Суши с икрой тобико;70;https://pp.userapi.com/c840632/v840632321/44b09/9bgN6rPELYM.jpg
+10;Суши спайси с лососем и окунем;45;https://pp.userapi.com/c840632/v840632321/44b12/SuE5US6fGNY.jpg
+11;Суши с чукой;100;https://pp.userapi.com/c841624/v841624321/59afc/rgS1m84nBxI.jpg
+12;Суши с лососем и икрой;90;https://pp.userapi.com/c841624/v841624321/59b05/kuliMIyOhVU.jpg
